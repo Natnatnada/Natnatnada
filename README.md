@@ -2,7 +2,7 @@
 <h1 align="center">I'm Natalia</h1>
 <h3 align="center">Frontend developer and sociologist :woman_technologist:</h3>
 
-- 🔭 I’m currently working on: [Burger Queen]([https://github.com/Natnatnada/Burger-Queen-Dev-003])
+- 🔭 I’m currently working on: [Burger Queen][https://github.com/Natnatnada/Burger-Queen-Dev-003]
 
 - 🌱 I’m currently learning: **nodeJs**
 
