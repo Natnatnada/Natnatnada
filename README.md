@@ -1,6 +1,6 @@
 ### Hello World👋 :world_map:
 <h1 align="center">I'm Natalia</h1>
-<h3 align="center">Frontend developer and sociologist :woman_technologist:</h3>
+<h3 align="center">Frontend developer :woman_technologist:</h3>
 
 
 - 📫 How to reach me: **n.aspeedelgado@gmail.com**
