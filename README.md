@@ -6,6 +6,8 @@
 - 📫 How to reach me: **n.aspeedelgado@gmail.com**
 
 - ⚡ Fun fact: **My favorite plant is the Monstera adansonii :seedling:**
+  
+- 🌱 I continue learning with the  [sheCodes workshop](https://www.shecodes.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
